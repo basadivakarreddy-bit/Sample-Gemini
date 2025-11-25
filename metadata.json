@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Chat",
+  "description": "A powerful, real-time AI chat interface powered by Google's Gemini 2.5 Flash model, featuring multimodal capabilities and code highlighting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
