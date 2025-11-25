@@ -113,7 +113,7 @@ const App: React.FC = () => {
             </div>
             <div>
                 <h1 className="text-lg font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-200 to-emerald-200">
-                Gemini Chat
+                Chat AI
                 </h1>
                 <div className="flex items-center gap-2">
                     <span className="relative flex h-2 w-2">
